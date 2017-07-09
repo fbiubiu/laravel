@@ -18,7 +18,7 @@ class TestController extends Controller
 //        $data=DB::table('user')->pluck('name');
 //        $data=User::get();
 //        var_dump($data);
-
+        //哈哈
         $a='yohoho';
         $a=encrypt($a);
         $a=decrypt($a);
